@@ -1,0 +1,2 @@
+# AI-and-ML-Postgraduate-Module-Projects
+Explore a collection of hands-on projects from my postgraduate AI and ML program. This repository features 8 dedicated folders, each corresponding to a module. Dive into diverse problem-solving scenarios, including machine learning, deep learning, and data science challenges. Each folder contains Jupyter notebooks with solutions and accompanying question PDFs, offering a comprehensive showcase of my skills and accomplishments in the field of artificial intelligence and machine learning
